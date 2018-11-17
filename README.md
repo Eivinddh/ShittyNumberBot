@@ -1,6 +1,6 @@
 # Shitty Number Bot
 
-#What
+## What
 A twitter bot using the account @EivindsShitBot. If a user sends a tweet in the format "@EivindsShitBot \<Integer\>", it'll reply with a fun fact from http://numbersapi.com/
 
 ## Usage
